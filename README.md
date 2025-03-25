@@ -30,4 +30,4 @@ A complete machine learning pipeline was built using Scikit-learn and XGBoost, i
 - **Performance**: RMSE ≈ **18,744** on training set, **≈ 43,000** on test, likely due to overifitting
 
 ## Continuation
-- ** I am continuin to experiemnt with new features, selecting more optimized models, and tuning hyparparameters to improve performance**
+-  I am continuing to experiemnt with new features, selecting more optimized models, and tuning hyparparameters to improve performance
